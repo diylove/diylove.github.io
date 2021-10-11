@@ -20,7 +20,7 @@ jobs:
           owner: 'diylove'
           skip-author: 'utterances-bot'
           use-issue-seperator: 'false'
-          output: 'content/posts'
+          output: 'content/post'
       - name: Commit files
         run: |
           git config --local user.email "idegorepl@gmail.com"
