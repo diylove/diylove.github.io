@@ -2,9 +2,9 @@ name: github pages
 
 on:
   push:
-    branches:
-      - main  # Set a branch to deploy
-  pull_request:
+  schedule:
+    # every 5 minutes to fetch issues
+    - cron: '*/5 * * * *'
 
 jobs:
   deploy:
