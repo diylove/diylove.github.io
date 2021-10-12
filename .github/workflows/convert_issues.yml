@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v1
+      - name: Remove all posts at first
+        run: rm -f content/post/*
       - name: Fetch issues and generate markdowns
         uses: skyfe79/hugo-with-github-issues@v1.7
         with:
