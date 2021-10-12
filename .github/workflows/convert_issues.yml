@@ -18,6 +18,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           repo: 'wiki'
           owner: 'diylove'
+          issue-state: 'closed'
           skip-author: 'utterances-bot'
           use-issue-seperator: 'false'
           output: 'content/post'
