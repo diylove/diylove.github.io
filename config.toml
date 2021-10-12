@@ -1,90 +1,95 @@
-# This is a simple configuration.
-# If you want to see the full configuration, please check `full-config.toml` .
-# And see https://gohugo.io/getting-started/configuration/ .
-
 baseURL = "https://diylove.github.io/"
-title = "DIY Love"
-enableRobotsTXT = true
-enableEmoji = true
-theme = "jane"
-
-hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
-rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
-
-# language support # en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "en"           # Default language to use
-[languages.en]
-  languageCode = "en"
-
-[author]                  # essential                     # 必需
-  name = "diylove"
-
-[sitemap]                 # essential                     # 必需
-  changefreq = "weekly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-[[menu.main]]             # config your menu              # 配置目录
-  name = "This is Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
-
+title = "DIY💔"
+languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn" # Change this to change the site's language
+theme = "hugo.386"
+preserveTaxonomyNames = true
 
 [params]
-  since = "2021"            # Site creation time          # 站点建立时间
-  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
-  rssFullContent = true     # if false, Rss feed instead of the summary
+    # The name to display as main title in the home page
+    mainpagetitle = "待填0"
 
-  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "DIY Love"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
-  description = "Hugo theme jane example site."
+    # The subtitle to display under the title in the home page
+    mainpagesubtitle = "待填1" 
 
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+    # The description of your website. It will be displayed in the home page
+    mainpagedesc = "待填2"
 
-  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
-  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = true                                                                            # 是否开启目录
-  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+    # The name to display in the copyright section in the footer
+    copyrightname = ""
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    copyrighturl = ""
 
-  [params.social]                                         # 社交链接
-    a-email = "mailto:your@email.com"
-    c-twitter = "http://localhost:1313"
-    d-facebook = "http://localhost:1313"
-    g-github = "http://github.com/diylove"
-    h-weibo = "http://localhost:1313"
-    i-zhihu = "http://localhost:1313"
-    j-douban = "http://localhost:1313"
-    q-bilibili = "http://localhost:1313"
-    t-youtube = "http://localhost:1313"
+    # Show the "built on Hugo" disclaimer
+    showhugo = false
+
+    # Urls for social networks
+    # github = "https://github.com/diylove/wiki"
+
+    # Enables or disables the loading animations. false activates them. Default is false.
+    loadfastload = true
+
+    # Sets the speed for the page loading effect. Default is 1.0.
+    loadspeedfactor = 1.0
+
+    # Enables or disables the second flyby cursor. Default is false.
+    loadonepass = false
+
+[params.copyright]
+    name = ""
+
+    # The url to use as link in the copyright name in the footer. Leave empty to use none.
+    url = ""
+
+    # Text to go before copyright information
+    prefix = "MADE WITH 💔 BY CONTRIBUTORS | CC BY-SA 4.0"
+
+    # Text to go between copyright and hugo disclaimer (if enabled)
+    suffix = "GITHUB.COM/DIYLOVE"
+
+[menu]
+  # This displays buttons in the navbar to access your contents
+  [[menu.main]]
+    identifier = "about" # An unique identifier for the button
+    name = "ABOUT"       # A display name for the button
+    url = "/about/"      # The path to the content. It can lead to a single page (like here)
+    weight = 10          # A number to order the buttons in the navbar
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "GUDIES"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
