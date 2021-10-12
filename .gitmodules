@@ -1,0 +1,12 @@
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "neofeed-theme"]
+	path = neofeed-theme
+	url = https://github.com/victoriadrake/neofeed-theme.git
+[submodule "themes/origin"]
+	path = themes/origin
+	url = https://gitlab.com/asleeppiano/origin-hugo-theme.git

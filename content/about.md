@@ -10,6 +10,8 @@ comment: false
 mathjax: false
 ---
 
+# Hugo
+
 Hugo is a static site engine written in Go.
 
 
@@ -22,3 +24,7 @@ It makes use of a variety of open source projects including:
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
+
+# Hugo Theme: 386
+
+BY [JM FERGEAU](http://jmf-portfolio.netlify.com)
