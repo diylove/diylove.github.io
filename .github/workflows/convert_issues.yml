@@ -23,12 +23,14 @@ jobs:
           output: 'content/post'
       - name: Commit files
         run: |
-          git config --local user.email "idegorepl@gmail.com"
-          git config --local user.name "B1nj0y"
-          git add .
-          git commit -m "Add Posts"
+          if test -n "$(git status --porcelain 2>/dev/null)"; then
+              git config --local user.email "idegorepl@gmail.com"
+              git config --local user.name "B1nj0y"
+              git add .
+              git commit -m "Add Posts"
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
