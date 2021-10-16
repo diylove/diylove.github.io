@@ -3,7 +3,7 @@ title: "diy一次凌晨散步（或，在动弹不得时diy一种动弹）"
 date: 2021-09-27T08:29:34Z
 author: "usx1999"
 draft: false
-tags: []
+tags: ["哲学指南：diy用身体思考","diy数学"]
 ---
 
 ### 背景
