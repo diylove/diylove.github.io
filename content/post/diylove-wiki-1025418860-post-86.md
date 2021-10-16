@@ -3,7 +3,7 @@ title: "diy一个节奏感游戏：Hit the Woah"
 date: 2021-10-13T15:49:27Z
 author: "JianqiaoJ"
 draft: false
-tags: ["艺术指南：diy实验舞蹈 💃","活动指南：diy热身","活动指南：diy游戏 🎳","感官指南：diy一种怀旧感 🕞","自组织指南：diy一种统一"]
+tags: ["艺术指南：diy实验舞蹈 💃","活动指南：diy热身","活动指南：diy游戏 🎳","感官指南：diy一种怀旧感 🕞","政治指南：diy一种统一"]
 ---
 
 ### 背景
