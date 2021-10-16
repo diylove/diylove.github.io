@@ -28,8 +28,8 @@ jobs:
       - name: Commit files
         run: |
           if test -n "$(git status --porcelain 2>/dev/null)"; then
-              git config --local user.email "idegorepl@gmail.com"
-              git config --local user.name "B1nj0y"
+              git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git config --local user.name "github-actions[bot]"
               git add .
               git commit -m "Add Posts"
           fi
