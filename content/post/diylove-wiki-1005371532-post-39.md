@@ -3,7 +3,7 @@ title: "diy一次旷课（紧迫版）"
 date: 2021-09-23T12:26:51Z
 author: "liexiangrui"
 draft: false
-tags: ["艺术：diy实验戏剧 🎭","艺术：diy实验小说","空间指南：diy学校 🏫","空间指南：diy医院 🏥"]
+tags: ["艺术指南：diy实验戏剧 🎭","艺术指南：diy实验小说","空间指南：diy学校 🏫","空间指南：diy医院 🏥"]
 ---
 
 ## 操作请假状态旷课的可能性尝试
