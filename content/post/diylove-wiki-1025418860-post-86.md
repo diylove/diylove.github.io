@@ -7,9 +7,10 @@ tags: ["艺术指南：diy实验舞蹈 💃","活动指南：diy热身","活动�
 ---
 
 ### 背景
-hit the woah:
+hit the woah动作教学:
 <img width="623" alt="Hit The Woah" src="https://user-images.githubusercontent.com/32622905/137168186-f4315ccb-64fd-43f1-86e9-8136f5e5472b.png">
 图片来源：https://www.urbandictionary.com/define.php?term=hit%20the%20woah
+https://media.giphy.com/media/XzwQZxJxtQZ4Sui5NY/giphy.gif
 
 随着音乐hit the woah，可作为团操、聚会热身游戏或挑战游戏。
 
