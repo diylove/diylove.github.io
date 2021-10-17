@@ -1,5 +1,5 @@
 ---
-title: "diy一个开源项目"
+title: "diy开源"
 date: 2021-09-01T09:44:25Z
 author: "2jojo"
 draft: false
