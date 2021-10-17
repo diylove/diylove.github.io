@@ -10,9 +10,13 @@ tags: ["艺术指南：diy实验舞蹈 💃","活动指南：diy热身","活动�
 hit the woah动作教学:
 <img width="623" alt="Hit The Woah" src="https://user-images.githubusercontent.com/32622905/137168186-f4315ccb-64fd-43f1-86e9-8136f5e5472b.png">
 图片来源：https://www.urbandictionary.com/define.php?term=hit%20the%20woah
-https://media.giphy.com/media/XzwQZxJxtQZ4Sui5NY/giphy.gif
 
-随着音乐hit the woah，可作为团操、聚会热身游戏或挑战游戏。
+![giphy](https://user-images.githubusercontent.com/32622905/137617026-8fe03a9c-81d8-4eef-95fe-c0fb500d60ed.gif)
+图片来源：https://media.giphy.com/media/XzwQZxJxtQZ4Sui5NY/giphy.gif
+
+举起双臂，向内绕圈，一只顺时针、一只逆时针，交叉单圈或多圈后一只手在上一只手在下用力停住，最好有种突然停住但是余震未了的感觉，停顿可以同时屈膝半蹲叠加感觉层次。
+
+💡随着音乐hit the woah，可作为团操、聚会热身游戏或挑战游戏。
 
 ### 材料
 1. 一首非常规整的歌——每小节最后一拍为“Woah!” : [KRYPTO9095 feat.D3MSTREET-WOAH](https://music.163.com/#/song?id=1372783563)
