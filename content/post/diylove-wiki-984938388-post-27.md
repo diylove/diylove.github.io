@@ -144,3 +144,12 @@ tags: ["艺术指南：diy实验写作 ✍🏻️","共同体指南：diy线上�
 ---
 Content based on github.com/github/opensource.guide used under the CC-BY-4.0 license.
 
+---
+参考待读
+- [ ] [维基工作小组](https://zh.wikipedia.org/wiki/Wikipedia:%E7%BB%B4%E5%9F%BA%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%BB%84)
+- [ ] [萌娘百科:方针](https://zh.moegirl.org.cn/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91:%E6%96%B9%E9%92%88#%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%E4%BD%93%E7%B3%BB)
+- [ ] [《开放式组织》](https://www.redhat.com/zh/explore/the-open-organization-book)
+- [ ] 礼物经济 [What can Open Source Software learn from the anthropology of gift economies?](https://maggieappleton.com/maintainers)
+    - 不同于市场经济，付出金钱或劳动的目的不是获得一个东西，而是为了一种人和人的有机连接🧑‍🤝‍🧑
+    - 积极债务（positive debt），我无偿给你们礼物🎁，然后你们中至少一部分人就会主动想给我礼物而且想给更多。
+
