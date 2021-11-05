@@ -2,11 +2,7 @@
 过程步骤 首先，双方坐下来尝试私下解决。发起方会提出一个明确的请求（不是评判，也不是要求），另一方则需要给出明确的回复（是或否，也可以是对策）。 一些注意事项: a.无罪推定原则，给对方疑点利益——即认为对方做这件事的居心是好的，至少不是坏的居心。 b.说话时需要不带任何不善的语气。
 如果双方不能达成一致，他/她们会指定一个共同信任的同事（或朋友）作为调解人，这个同事（或朋友）会帮助双方达成一致，但不能把解决方案强加给他/她们。
 如果调解失败，还可以召集一个相关的专题小组。这个小组的角色依然是倾听和帮助促成共识，仍然不能强加任何决定，但通常会增加足够的道德砝码以促成结论的形成。
-参考来源 《重塑组织》 《自主管理:博组客的自组织转型实践》</description></item><item><title>diy一次指南维基写作工作坊（参与你的第一个开源项目）</title><link>https://diylove.github.io/post/diylove-wiki-1019727765-post-74/</link><pubDate>Thu, 07 Oct 2021 07:49:51 +0000</pubDate><guid>https://diylove.github.io/post/diylove-wiki-1019727765-post-74/</guid><description>背景 #27
-目标 带领大家从熟悉 GitHub 开始，一步步了解开源的价值观和实践方法，迈出踏入广阔开源世界的第一步。
-材料 最好带电脑 GitHub账号 报名 写自己想写的diy指南标题即可👏 尤其欢迎做过活动的伙伴通过共同写作来沉淀和分享经验
-过程步骤 介绍：开源是什么？GitHub是什么？ 介绍：Diylovewiki是什么？github.com/diylove/wiki。一个diy活动的指南库，由706孵化。近期有纸质出版计划。 指南案例展示：diy一次旷课、diy一次苏格拉底式对话 ……https://github.com/diylove/wiki/issues 指南写作 指南写作初稿挨个儿展示和讨论 注释 目前在上海和杭州举办过线下工作坊。
-延伸阅读 暂无</description></item><item><title>diy开源</title><link>https://diylove.github.io/post/diylove-wiki-984938388-post-27/</link><pubDate>Wed, 01 Sep 2021 09:44:25 +0000</pubDate><guid>https://diylove.github.io/post/diylove-wiki-984938388-post-27/</guid><description>你在考虑开始参与开源？恭喜！世界赞赏你的贡献。
+参考来源 《重塑组织》 《自主管理:博组客的自组织转型实践》</description></item><item><title>开源入门指南</title><link>https://diylove.github.io/post/diylove-wiki-984938388-post-27/</link><pubDate>Wed, 01 Sep 2021 09:44:25 +0000</pubDate><guid>https://diylove.github.io/post/diylove-wiki-984938388-post-27/</guid><description>你在考虑开始参与开源？恭喜！世界赞赏你的贡献。
 &amp;ldquo;开源&amp;quot;是什么 当一个项目被开源，这意味着任何人都可以出于任何目的查看，使用，修改和分发你的项目。 这些权限通过开源许可强制实施。开源是强大的，因为它降低了事物被采纳的障碍，允许想法迅速传播。
 想象你的朋友组织了一场聚餐，而你去他家厨房做了一道拿手的独家菜。
 每个人都尝到了菜（使用) 菜的味道棒极了！大家请你分享它的食谱（浏览） 一个叫朋友是个厨师，他建议加一种蘑菇的话口感会更好（修改） 一个叫朋友想学怎么做这种菜，下周她家晚餐也想做这道菜，你还被邀请去她家晚餐（发布） 相比之下，一个闭源过程就像去一家餐厅点菜，点了一个菜。
