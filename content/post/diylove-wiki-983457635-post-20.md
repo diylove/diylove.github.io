@@ -6,7 +6,6 @@ draft: false
 tags: ["艺术指南：diy行为艺术 🕴","物的指南：diy墙","艺术指南：diy实验绘画 🎨","身份指南：diy自我","物的指南：diy床 🛏️"]
 ---
 
-
 ### 材料：
 
 炭条（或其他类型的画笔），长棒，床，墙
@@ -34,4 +33,8 @@ tags: ["艺术指南：diy行为艺术 🕴","物的指南：diy墙","艺术指�
 ### 想法来源（有调整）：
 
 亨利·马蒂斯（Henri Matisse）
+
+### 来源
+
+http://www.performance-homework.work/self-portrait-in-bed.htm
 
