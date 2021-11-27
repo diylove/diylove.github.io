@@ -3,7 +3,7 @@ title: "diy一天无微信生活"
 date: 2021-09-25T08:48:22Z
 author: "Jesse-zj"
 draft: false
-tags: ["身份指南：diy自我","物的指南：diy屏幕 🖥📱","SDGs指南：diy健康福祉","感官指南：diy一种忍耐 🕞","政治指南：diy一种逃避统治的艺术"]
+tags: ["身份指南：diy自我","SDGs指南：diy健康福祉","感官指南：diy一种忍耐 🕞","政治指南：diy一种逃避统治的艺术"]
 ---
 
 ## 背景：
