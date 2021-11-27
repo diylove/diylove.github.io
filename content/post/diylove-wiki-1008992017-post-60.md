@@ -3,7 +3,7 @@ title: "diy一场觉察实验"
 date: 2021-09-28T01:56:00Z
 author: "Bettermanhl"
 draft: false
-tags: []
+tags: ["感官指南：diy一种平静觉察 😐","diy时间"]
 ---
 
 ## 背景
