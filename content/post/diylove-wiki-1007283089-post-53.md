@@ -3,7 +3,7 @@ title: "diy一本线上共享日记"
 date: 2021-09-26T05:28:51Z
 author: "Bettermanhl"
 draft: false
-tags: ["共同体指南：diy线上社区🌐"]
+tags: ["艺术指南：diy实验写作 ✍🏻️","共同体指南：diy线上社区🌐","空间指南：diy图书馆 📚","空间指南：diy线上公共空间"]
 ---
 
 1. 通过腾讯文档或石墨文档建一个共享word文档。
